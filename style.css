@@ -1,1 +1,35 @@
-
+body{
+    background-color: rgb(233, 142, 22);
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0%;
+    padding: 0%;
+}
+.cabecalho{
+    background-color: rgb(14, 13, 13);
+    color: aliceblue;
+    font-size: 40px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
+.principal{
+    background-color: bisque;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.pacoca{
+    width: 100px;
+    border-radius: 100%;
+}
+.rodape{
+    background-color: rgb(14, 13, 13);
+    color: aliceblue;
+    font-size: 40px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
